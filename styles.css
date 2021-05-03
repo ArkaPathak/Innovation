@@ -1,0 +1,12 @@
+body{
+    height: auto;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/35/Biryani_Home.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 5px block;
+    color: brown;
+}
